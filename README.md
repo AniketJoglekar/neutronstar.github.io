@@ -14,7 +14,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-$`\sqrt{2}`$
+$\sqrt{2}$
 - Bulleted
 - List
 
